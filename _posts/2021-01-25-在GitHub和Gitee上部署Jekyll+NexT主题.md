@@ -1,5 +1,4 @@
 ---
-layout: post 
 title: 在GitHub和Gitee上部署Jekyll+NexT主题
 categories:
  - Tutorial
